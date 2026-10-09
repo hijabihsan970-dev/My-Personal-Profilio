@@ -1,4 +1,4 @@
-# My-Personal-Profilio
+# My-Personal-Profolio
 My learning journey in Robotics, Artificial Intelligence, and technology.
 # My Personal Portfolio
 
